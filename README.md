@@ -18,3 +18,7 @@ Pivot Table
 Graphs, Charts For Data Visualisation 
 
 Also Building Dashboards 
+
+Exploratry data analyis : 
+1.Zomato data set
+2.EDA_2 along train and test data set 
