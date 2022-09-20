@@ -19,6 +19,12 @@ Graphs, Charts For Data Visualisation
 
 Also Building Dashboards 
 
-Exploratry data analyis : 
+Exploratry data analyis : 2
 1.Zomato data set
+
+
 2.EDA_2 along train and test data set 
+
+
+EDA 3 : test and train data in xlsx format uploded with flight price prediction jupyter notebook
+
